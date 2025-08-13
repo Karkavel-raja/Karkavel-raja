@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karkavel Raja
+ # 👋 Hi, I'm Karkavel Raja
 
 🎓 I'm a graduate in **Electronics and Communication Engineering (B.E - ECE)**  
 🔧 Currently pursuing a specialization in **Embedded Systems**  
